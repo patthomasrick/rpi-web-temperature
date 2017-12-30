@@ -39,5 +39,5 @@ start(
     multiple_instance=False,
     enable_file_cache=True,
     update_interval=0.1, 
-    start_browser=True
+    start_browser=False
 )
